@@ -1,5 +1,4 @@
 # STACKHACK_HACKATHON
-# FHFH
 Website: 
 
 Ppt Link:
