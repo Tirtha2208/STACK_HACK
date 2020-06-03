@@ -9,4 +9,4 @@ Youtube Video Link:
 
 Entry Form Database Link:
 
-Query Form Database Link: https://drive.google.com/file/d/1-Ar8x0j78dRGw5EfZn0QUyfg43bKMcWt/view?usp=sharing
+Query Form Database Link: https://docs.google.com/spreadsheets/d/11n-ThgWryA0uuS66doxVNYU7Tupzkte8U5ICj-8SFj0/edit?usp=sharing
