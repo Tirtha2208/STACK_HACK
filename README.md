@@ -1,7 +1,7 @@
 # STACKHACK_HACKATHON
 Website: https://blackcoders.000webhostapp.com/ 
 
-Ppt Link: https://drive.google.com/file/d/1UE9s0PkVxEDqcOuQ48q9cuzIsN34hNtm/view?usp=sharing
+Ppt Link: https://drive.google.com/file/d/1iWXEyoGNl2IuWZtiRYqNPu7cvblilVog/view?usp=sharing
 
 Youtube Video Link: https://youtu.be/cXiLqhz7I3M
 
